@@ -1,3 +1,5 @@
 user: usuario
-password: ***REMOVED***
+password: senha
 alterando 2
+
+Novo commit
